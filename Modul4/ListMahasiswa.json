@@ -1,0 +1,28 @@
+{
+    "mahasiswa":[
+        {
+            "nim": 1741720052,
+            "nama": "Dzikri Alif A",
+            "alamat": "Jombang Jawa Timur",
+            "telp": "08671268127",
+            "angkatan": 2018,
+            "status": "aktif"
+        },
+        {
+            "nim": 17488912399,
+            "nama": "Fernando Maitimo",
+            "alamat": "Tuban Jawa Timur",
+            "telp": "0861124132",
+            "angkatan": 2018,
+            "status": "cuti"
+        },
+        {
+            "nim": 14123332145,
+            "nama": "Raditya Firman",
+            "alamat": "Surabaya Jawa Timur",
+            "telp": "08512412427",
+            "angkatan": 2014,
+            "status": "lulus"
+        }
+    ]
+}

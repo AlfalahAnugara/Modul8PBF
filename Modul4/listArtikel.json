@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "nesciunt quas odio",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    },
+    {
+      "userId": 1,
+      "id": 1584527744524,
+      "title": "memahamimu",
+      "body": "asique"
+    },
+    {
+      "userId": 1,
+      "id": 1584528040845,
+      "title": "Test judul 2",
+      "body": "Judul 2 awesome"
+    },
+    {
+      "userId": 1,
+      "id": 1584529753937,
+      "title": "itadakimas",
+      "body": "llololo"
+    },
+    {
+      "userId": 1,
+      "id": 1584529815428,
+      "title": "sdadsa",
+      "body": "fasfasf"
+    },
+    {
+      "userId": 1,
+      "id": 1584529943753,
+      "title": "gagaga",
+      "body": "seas"
+    },
+    {
+      "userId": 1,
+      "id": 1584529972879,
+      "title": "test2",
+      "body": "sadna"
+    },
+    {
+      "userId": "[object Object]1",
+      "id": 1584530004844,
+      "title": "haha",
+      "body": "123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
